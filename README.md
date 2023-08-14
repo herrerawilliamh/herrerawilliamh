@@ -1,6 +1,6 @@
 # Hi there 👋, My name is William Humberto Herrera Rey
 
-<img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./MERN_William_Herrera.png)" alt="my banner">
+![Header](./MERN_William_Herrera.png)
 
 I am a teacher by vocation and an engineer by profession. I am passionate about teaching and using technology during the teaching process.
 
