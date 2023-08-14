@@ -1,6 +1,6 @@
 # Hi there 👋, My name is William Humberto Herrera Rey
 
-![Header](./MERN_William_Herrera.png)
+![Header](./MERN_William_Humberto_Herrera_Rey.png)
 
 I am a teacher by vocation and an engineer by profession. I am passionate about teaching and using technology during the teaching process.
 
